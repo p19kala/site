@@ -25,8 +25,3 @@ tags:
 
 
 ### Σημειώσεις: Έκανα αντιγραφή τον κώδικα embed, αλλά δεν δουλεύει όπως θα έπρεπε. Για να δείτε το πρόγραμμα, πατήστε στο σύνδεσμο "https://codepen.io/p19kala/embed/pobgEKo?height=265&theme-id=dark&default-tab=html,result".
-
-## Πηγές που βοήθησαν:
-[How to put link in HTML for a button](https://stackoverflow.com/a/20343328)
-
-[Colours hex values in CSS](https://www.w3schools.com/cssref/css_colors.asp)
