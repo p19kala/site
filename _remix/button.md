@@ -17,11 +17,11 @@ tags:
 
 Ασκηση: Επεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά την επιλογή του κουμπιού (κλικ), να εφαρμόζεται μια λειτουργία της επιλογής σας.
 
-Λύση:
+## Λύση:
 <iframe height="265" style="width: 100%;" scrolling="no" title="2o paradoteo" src="https://codepen.io/p19kala/embed/pobgEKo?height=265&theme-id=dark&default-tab=html,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/p19kala/pen/pobgEKo'>2o paradoteo</a> by Kalathas
   (<a href='https://codepen.io/p19kala'>@p19kala</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
 
-### Σημειώσεις: Έκανα αντιγραφή τον κώδικα embed, αλλά δεν δουλεύει όπως θα έπρεπε. Για να δείτε το πρόγραμμα, πατήστε στο σύνδεσμο "https://codepen.io/p19kala/embed/pobgEKo?height=265&theme-id=dark&default-tab=html,result".
+#### Σημειώσεις: Έκανα αντιγραφή τον κώδικα embed, αλλά δεν δουλεύει όπως θα έπρεπε. Για να δείτε το πρόγραμμα, πατήστε στο σύνδεσμο "https://codepen.io/p19kala/embed/pobgEKo?height=265&theme-id=dark&default-tab=html,result".
