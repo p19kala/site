@@ -21,9 +21,7 @@ tags:
 
 ## Απάντηση:
 
-<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="p19kala" data-slug-hash="eYzrzqB" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Image Filter">
-  <span>See the Pen <a href="https://codepen.io/p19kala/pen/eYzrzqB">
-  Image Filter</a> by Alexandros Kalathas (<a href="https://codepen.io/p19kala">@p19kala</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+<iframe height="265" style="width: 100%;" scrolling="no" title="Image Filter" src="https://codepen.io/p19kala/embed/eYzrzqB?height=265&theme-id=dark&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/p19kala/pen/eYzrzqB'>Image Filter</a> by Alexandros Kalathas
+  (<a href='https://codepen.io/p19kala'>@p19kala</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
