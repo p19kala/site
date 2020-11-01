@@ -24,4 +24,4 @@ tags:
   (<a href='https://codepen.io/p19kala'>@p19kala</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 <br/><br/>
-Σημειώσεις: Έκανα αντιγραφή τον κώδικα embed, αλλά δεν δουλεύει όπως θα έπρεπε. Για να δείτε το πρόγραμμα, πατήστε [εδώ](https://codepen.io/p19kala/embed/pobgEKo?height=265&theme-id=dark&default-tab=html,result)
+**Σημειώσεις:** Έκανα αντιγραφή τον κώδικα embed, αλλά δεν δουλεύει όπως θα έπρεπε. Για να δείτε το πρόγραμμα, πατήστε [εδώ](https://codepen.io/p19kala/embed/pobgEKo?height=265&theme-id=dark&default-tab=html,result)
