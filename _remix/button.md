@@ -17,6 +17,7 @@ tags:
 
 Ασκηση: Επεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά την επιλογή του κουμπιού (κλικ), να εφαρμόζεται μια λειτουργία της επιλογής σας.
 
+
 ## Λύση:
 
 <iframe height="397" style="width: 100%;" scrolling="no" title="Button" src="https://codepen.io/p19kala/embed/pobgEKo?height=397&theme-id=dark&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
