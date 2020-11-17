@@ -1,7 +1,7 @@
 [submodule "images"]
 	path = images
-    url = https://github.com/p19kala/images.git
-    branch = master
+    	url = https://github.com/p19kala/images.git
+    	branch = master
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/p19kala/_gallery.git
