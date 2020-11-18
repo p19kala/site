@@ -1,11 +1,11 @@
 [submodule "images"]
 	path = images
-    	url = https://github.com/p19kala/images.git
-    	branch = 138b6b22cfa70593a47601cb719e7bf9c3326176
+    	url = https://github.com/pibook/images.git
+    	branch = master
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/p19kala/_gallery.git
-	branch = 108eba9e42065aef912fcc22bf94cfc47c37d6d5
+	url = https://github.com/pibook/_gallery.git
+	branch = master
 [submodule "_includes/extras"]
 	path = _includes/extras
 	url = https://github.com/pibook/extras.git
