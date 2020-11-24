@@ -17,7 +17,7 @@ tags:
 
 Άσκηση: Τροποποιήστε το μενού κατάλληλα ώστε κατά την επιλογή του κουμπιού open να εμφανίζονται 4 και όχι 12 επιλογές.
 
-Λύση: 
+## Λύση: 
 
 <iframe height="397" style="width: 100%;" scrolling="no" title="Circular Navigation example" src="https://codepen.io/p19kala/embed/GRqVNeJ?height=265&theme-id=dark&default-tab=js,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/p19kala/pen/GRqVNeJ'>Circular Navigation example</a> by Alexandros Kalathas
