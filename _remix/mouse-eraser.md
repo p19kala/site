@@ -19,7 +19,7 @@ tags:
 
 Λυση:
 
-<iframe height="700" style="width: 100%;" scrolling="no" title="Mouse eraser" src="https://codepen.io/p19kala/embed/vYXKmOM?height=265&theme-id=dark&default-tab=js,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+<iframe height="585" style="width: 100%;" scrolling="no" title="Mouse eraser" src="https://codepen.io/p19kala/embed/vYXKmOM?height=265&theme-id=dark&default-tab=js,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/p19kala/pen/vYXKmOM'>Mouse eraser</a> by Alexandros Kalathas
   (<a href='https://codepen.io/p19kala'>@p19kala</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
