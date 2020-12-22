@@ -8,7 +8,7 @@ categories:
   - Εργαλεία
 tags:
   - game engine
-  - Epic Games, Inc.
+  - Epic Games, Inc
   - Blueprint
 gallery:
   - image_url: /images/unreal-engine.png
